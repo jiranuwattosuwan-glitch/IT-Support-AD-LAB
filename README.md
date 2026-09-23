@@ -1,6 +1,6 @@
 # IT-Support-AD-LAB
 
-# Network Topology:
+## Network Topology:
 
 ```mermaid
 graph TD
