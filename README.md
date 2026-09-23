@@ -1,9 +1,2 @@
 # IT-Support-AD-LAB
-```mermaid
-graph TD
-    subgraph VMware 26H1u1
-        VSwitch[Virtual Switch: 192.168.10.0/24]
-        DC[LUNA-DC01<br>Windows Server 2025<br>Status: Standalone]
-        VSwitch --- DC
-    end
-```
+
