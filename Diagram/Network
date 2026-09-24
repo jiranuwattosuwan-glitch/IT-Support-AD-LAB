@@ -7,4 +7,5 @@ graph TD
         VSwitch --- DC
     end
 ```
+
 อธิบาย Diagram: ปัจจุบันมีเพียงแค่ Node ของ Virtual Switch ที่ทำการเชื่อมต่อ Edge ไปยัง LUNA-DC01 ซึ่งยังเป็น Standalone Server (ยังไม่มีการติดตั้ง Role ใดๆ)
