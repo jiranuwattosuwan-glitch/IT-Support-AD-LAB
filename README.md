@@ -329,11 +329,3 @@ These values are fixed for the lab.
 
 ## Steps Performed
 
-### Guest Additions
-- Installed VirtualBox Guest Additions for mouse integration and clipboard sharing.
-- Created a shared folder with host machine.
-
-### Network Configuration
-- Set static IP: `192.168.10.10`
-- Configured DNS to point to localhost (127.0.0.1)
-- This ensures the server uses itself for DNS after AD DS installation.
