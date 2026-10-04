@@ -252,9 +252,7 @@ Disk 1 — 40 GB
 All virtual disks use **Thin Provisioning**. This means a disk does not take all of its space on the physical host at the start.
 
 ---
-# Final Lab Baseline
-
-## General Settings
+# General Settings
 These values are fixed for the lab.
 
 | Category | Final Value |
